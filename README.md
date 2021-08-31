@@ -19,7 +19,7 @@ Turn the playing fields and collect additional resources
 
 Have more then one player, so that you have to coordinate their movement.
 
-![](gifs/2_players.gif)
+![](gifs/2_player.gif)
 
 Move blocks to form path/move players/move goals
 
