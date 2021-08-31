@@ -10,7 +10,7 @@ Instead of moving the player, move the goal. Instead of moving the goal, move th
 The prototype of the game is not really aethetically interesting, so I am in the process of polishing the graphics. 
 Sadly the transfer to the more compelling system is not done yet, but here is an outlook to the future visuals of the game.
 
-insert gif
+![](gifs/future.gif)
 
 ## Mechanics
 Turn the playing fields and collect additional resources
@@ -33,6 +33,9 @@ Your movement resources are tied to a color -> Change the color of your player a
 Turn the playing field to from a 3 dimensions to 2, so that height differences disappear and you move over block
 (You can also generate the effect of Esher paintings this way)
 
+## Content
+Right now their are around 50 interesting levels.
+
 ## Sequences
 Levels are organized into sequences/chapters, which riff off the same concept. I want to explore the "idea-space" of a mechanic in this way.
 Examples of this are:
@@ -44,7 +47,14 @@ This sequence explores the ways of transporting the player across a gap, by arra
 
 ![](gifs/sequence2.gif)
 
-insert discription of the different levels and how they comment on each other
+1. Your are limited on your ability to move upward with the black blocks, but can go through the middle with two blocks.
+2. The only difference is that the path to the middle is closed, but that small change means you have to block differently.
+3. The level seems impossible at first, you simply do not have enough moves with the black blocks. But you can solve it in a different way, then the first two, and use the unmoveable blocks as a bridge to the other side. (subverting the expectation of the solution)
+
+## Complications
+When combining the different gameplay elements, arbitrarily hard levels can be constructed: a combinatorial explosion of possiblilities occurs. Here is a more complicated level, which has block moving and a four players.
+
+![](gifs/complicated.gif)
 
 ## Game Engine
 Since the game is limited in scope and graphics, I wrote the game engine for this project myself. Features of it are:
