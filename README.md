@@ -13,17 +13,13 @@ Sadly the transfer to the more compelling system is not done yet, but here is an
 insert gif
 
 ## Mechanics
-Turn the playing fields
+Turn the playing fields and collect additional resources
 
 ![](gifs/rotate_collect.gif)
 
-Collect additional resources
-
-insert gif
-
 Have more then one player, so that you have to coordinate their movement.
 
-insert gif
+![](gifs/2_players.gif)
 
 Move blocks to form path/move players/move goals
 
@@ -31,7 +27,7 @@ insert gif
 
 Your movement resources are tied to a color -> Change the color of your player and tile, so that you can bridge the gap by moving the tiles.
 
-insert gif
+![](gifs/color_swap.gif)
 
 ### Future Mechanics
 Turn the playing field to from a 3 dimensions to 2, so that height differences disappear and you move over block
