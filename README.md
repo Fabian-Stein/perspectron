@@ -15,7 +15,7 @@ insert gif
 ## Mechanics
 Turn the playing fields
 
-insert gif
+![](gifs/rotate_collect.gif)
 
 Collect additional resources
 
