@@ -23,7 +23,7 @@ Have more then one player, so that you have to coordinate their movement.
 
 Move blocks to form path/move players/move goals
 
-insert gif
+![](gifs/blocking.gif)
 
 Your movement resources are tied to a color -> Change the color of your player and tile, so that you can bridge the gap by moving the tiles.
 
@@ -42,7 +42,7 @@ Examples of this are:
 
 This sequence explores the ways of transporting the player across a gap, by arranging the black blocks in the right sequence.
 
-insert gif of the sequence
+![](gifs/sequence2.gif)
 
 insert discription of the different levels and how they comment on each other
 
