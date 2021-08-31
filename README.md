@@ -1,8 +1,8 @@
 # Perspectron
 
-#Idea
+## Idea
 
-##Mood
+## Mood
 
-##Mechanics
+## Mechanics
 
