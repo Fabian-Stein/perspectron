@@ -41,7 +41,7 @@ Examples of this are:
 - Have different layouts but similar solutions
 - etc.
 
-This sequence explores the ways of transporting the player across a gap, by arranging the black blocks in the right sequence.
+This sequence explores the ways of transporting the player across a gap, by arranging the black blocks in the right order.
 
 ![](gifs/sequence2.gif)
 
