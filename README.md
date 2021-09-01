@@ -2,7 +2,7 @@
 
 ## Idea
 You have limited movements to reach the goal. To do so you will have to change your perspective:
-Instead of moving the player, move the goal. Instead of moving the goal, move the block it rests on. Instead of going to the right, turn the playing field clockwise and move down. From these simple rules a lot of interesting, levels can be designed, which challenge the players intuitions.
+Instead of moving the player, move the goal. Instead of moving the goal, move the block it rests on. Instead of going to the right, turn the playing field clockwise and move down. From these simple rules a lot of interesting levels can be designed, which challenge the players intuitions.
 
 ## Future Graphics
 The prototype of the game is not really aethetically interesting, so I am in the process of polishing the graphics. 
