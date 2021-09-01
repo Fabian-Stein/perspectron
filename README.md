@@ -32,7 +32,7 @@ Turn the playing field to from a 3 dimensions to 2, so that height differences d
 (You can also generate the effect of Esher paintings this way)
 
 ## Content
-Right now their are around 50 interesting levels.
+Right now there are around 50 interesting levels.
 
 ## Sequences
 Levels are organized into sequences/chapters, which riff off the same concept. I want to explore the "idea-space" of a mechanic in this way.
